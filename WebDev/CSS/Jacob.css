@@ -1,0 +1,16 @@
+h1{
+    color:rgb(255, 95, 95);
+}
+h2{
+    color:aquamarine;
+    font-family: "Times New Roman";
+    
+}
+div{
+    background-origin: padding-box;
+    background-color: rgb(235, 177, 177);
+}
+p{
+    background-color:aquamarine;
+    
+}
